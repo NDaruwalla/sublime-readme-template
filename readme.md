@@ -153,3 +153,12 @@ The following individuals contributed much appreciated support, assistance, and 
 Additional acknowledgements include:
 - acknowledgement 1
 - acknowledgement 2
+
+## How-To-Contribute
+Ideas, issues, and requests for enhancements and/or changes are all welcome! Submit requests via GitHub or via email. 
+
+#### GitHub
+Fork the repository, create a new branch, make your changes, add and commit your changes, and push your changes to the original branch. Or, log an issue here: https://github.com/NDaruwalla/sublime-readme-template/issues. 
+
+#### Email
+Contact the developer via [Email](mailto:nicole.daruwalla@gmail.com).
