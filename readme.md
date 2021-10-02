@@ -162,3 +162,8 @@ Fork the repository, create a new branch, make your changes, add and commit your
 
 #### Email
 Contact the developer via [Email](mailto:nicole.daruwalla@gmail.com).
+
+## Support
+For questions or help with this application, contact the developer via [Email](mailto:nicole.daruwalla@gmail.com).
+
+Like this project? Give it a ✭!
