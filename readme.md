@@ -18,11 +18,12 @@
   - [Built With](#built-with)   
   - [How To Use](#how-to-use)
   - [Tests](#tests)
+  - [Development Notes](#development-notes) 
+  - [References](#references)
   - [Author](#author)
   - [Contributors & Acknowledgements](#contributors-&-acknowledgements)    
-  - [How To Contribute](#how-to-contribute)
-  - [References](#references)
   - [Future Considerations](#future-considerations)
+  - [How To Contribute](#how-to-contribute)
   - [Questions & Support](#questions-&-support)
   - [License](#license)
 
@@ -114,3 +115,7 @@ The following test were performed:
   * test 1
   * test 2
   * test 3
+
+## Development Notes
+<!-- this section can be used to describe development steps and/or process, challenges/obstacles and solutions, etc. -->
+
