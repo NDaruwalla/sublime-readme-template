@@ -108,3 +108,9 @@ To use this application, follow these steps:
   1. do this
   2. then this
   3. and this
+
+## Tests
+The following test were performed:
+  * test 1
+  * test 2
+  * test 3
