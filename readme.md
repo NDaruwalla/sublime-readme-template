@@ -32,12 +32,20 @@
 
 ### Description
   <!-- Describe what your project does. Note anything that differentiates your project from similar projects.  -->
+  Write application description here.
 
 ### Business Need
   <!-- Describe the business need that your project addresses/solves and the target audience.-->
+  Write the business need for the application here.
 
 ### Key Features
 <!-- Note the key features/functionality of your project.  -->
+The key features of this application include:
+  * feature 1
+  * feature 2
+  * feature 3
+  * feature 4
+  * feature 5
 
 ## Links
 
@@ -73,3 +81,12 @@ Screen capture #1 title and/or brief description
 
 <img src="https://your-image-url.type" alt="Alt text here" width="100">
 
+## Built With 
+<!-- list the tools and technologies used to create the application and provide descriptions/links as appropriate -->
+The tools and technologies used to build this application include:
+  * tool 1
+  * tool 2
+  * tool 3
+  * tool 4
+  * tool 5
+  * tool 6
