@@ -11,7 +11,7 @@
 
 <!-- https://shields.io/ -->
 
-  ## Table of Contents
+## Table of Contents
   - [Overview](#overview)
   - [Links](#links)
   - [Visual Media](#visual-media)  
@@ -28,13 +28,27 @@
   - [Questions & Support](#questions-&-support)
   - [License](#license)
 
-   ## Overview
+## Overview
 
-   ### Description
-   <!-- Describe what your project does. Note anything that differentiates your project from similar projects.  -->
+### Description
+  <!-- Describe what your project does. Note anything that differentiates your project from similar projects.  -->
 
-   ### Business Need
-   <!-- Describe the business need that your project addresses/solves and the target audience.-->
-   
-   ### Key Features
-   <!-- Note the key features/functionality of your project.  -->
+### Business Need
+  <!-- Describe the business need that your project addresses/solves and the target audience.-->
+
+### Key Features
+<!-- Note the key features/functionality of your project.  -->
+
+## Links
+
+### Github Repository 
+[Github](https://github.com/NDaruwalla/projectname)
+
+### Live 
+[Heroku](https://git.heroku.com/projectname.git)
+
+### API
+[API](<API Link> "API")
+
+### Issues
+[Bugs](https://github.com/ndaruwalla/projectname/issues "Issues Page")
