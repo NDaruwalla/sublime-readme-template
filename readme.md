@@ -1,13 +1,16 @@
-<h1 align="center">Project Title</h1>
+<h1 align="center">Sublime Readme Template</h1>
+<!-- change text above in h1 to the name of the project/application -->
+
+<p align="center">A customizable template created to help developers write a comprehensive readme file.</p>
+<!-- change text above in <p> to the the tagline or short description of the project/application -->
 
 <p align="center">
-   <img src="image url here" alt="Alt text here"/>
+   <img src="image url here" alt="Application Logo"/>
 </p>
 
-<p align="center">![Icon-or-Logo-Name](Assets/img/name.png)</p>
+<!-- If no logo, then insert an icon that represents the project/application
+<p align="center">![Icon-or-Logo-Name](Assets/img/name.png)</p> -->
 <!-- image credit: this image is from icons8 or other-->
-
-<p align="center">Tagline/Short-Description</p>
 
 <!-- https://shields.io/ -->
 
@@ -111,13 +114,20 @@ To use this application, follow these steps:
   3. and this
 
 ## Tests
-The following test were performed:
+The following tests were performed:
   * test 1
   * test 2
   * test 3
 
 ## Development Notes
-<!-- this section can be used to describe development steps and/or process, challenges/obstacles and solutions, etc. -->
+<!-- this section can be used to describe development steps and/or process, challenges/obstacles and solutions, key code snippets etc. -->
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 
 ## References
 <!-- list sites, videos, articles, examples, etc. that were referenced in the development of the app -->
@@ -166,4 +176,15 @@ Contact the developer via [Email](mailto:nicole.daruwalla@gmail.com).
 ## Support
 For questions or help with this application, contact the developer via [Email](mailto:nicole.daruwalla@gmail.com).
 
-Like this project? Give it a ✭!
+## License
+<!-- https://shields.io/ -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+  
+Click the badge for license description.
+
+## Final Words
+As person-name said: 
+>Write quote here.
+
+
+<p align="center" <span style="color:blue" >Like this project? Give it a ✭!</span></p>
