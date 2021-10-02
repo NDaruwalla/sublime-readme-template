@@ -119,3 +119,9 @@ The following test were performed:
 ## Development Notes
 <!-- this section can be used to describe development steps and/or process, challenges/obstacles and solutions, etc. -->
 
+## References
+<!-- list sites, videos, articles, examples, etc. that were referenced in the development of the app -->
+The following sources were referenced to develop the application:
+- reference 1
+- reference 2
+- reference 3
