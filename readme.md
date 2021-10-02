@@ -19,12 +19,12 @@
   - [How To Use](#how-to-use)
   - [Tests](#tests)
   - [Development Notes](#development-notes) 
-  - [References](#references)
-  - [Author](#author)
-  - [Contributors & Acknowledgements](#contributors-&-acknowledgements)    
+  - [References](#references) 
   - [Future Considerations](#future-considerations)
-  - [How To Contribute](#how-to-contribute)
-  - [Questions & Support](#questions-&-support)
+  - [How To Contribute](#how-to-contribute)   
+  - [Author](#author)
+  - [Contributions & Acknowledgements](#contributions-&-acknowledgements)   
+  - [Support](#support)
   - [License](#license)
 
 ## Overview
@@ -125,3 +125,24 @@ The following sources were referenced to develop the application:
 - reference 1
 - reference 2
 - reference 3
+
+## Author
+
+#### Primary Author/Developer: 
+
+Nicole Daruwalla
+
+#### Contact Information
+- [GitHub](https://github.com/ndaruwalla)
+- [Email](mailto:nicole.daruwalla@gmail.com)
+- [Portfolio](https://github.com/NDaruwalla/daruwalla-react-portfolio)
+- [LinkedIn](https://www.linkedin.com/in/nicoledaruwalla/)
+
+## Contributors & Acknowledgements
+The following individuals contributed much appreciated support, assistance, and expertise to the project:
+- contributor 1
+- contributor 2
+
+Additional acknowledgements include:
+- acknowledgement 1
+- acknowledgement 2
