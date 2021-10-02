@@ -12,11 +12,9 @@
 <!-- https://shields.io/ -->
 
   ## Table of Contents
-  - [Description](#description)
-  - [Business-Need](#business-need)
+  - [Overview](#overview)
   - [Links](#links)
-  - [Visual Media](#visual-media)
-  - [Key Features](#key-features)   
+  - [Visual Media](#visual-media)  
   - [Built With](#built-with)
   - [Requirements](#requirements)   
   - [Installation](#installation)    
@@ -29,3 +27,14 @@
   - [Future Considerations](#future-considerations)
   - [Questions & Support](#questions-&-support)
   - [License](#license)
+
+   ## Overview
+
+   ### Description
+   <!-- Describe what your project does. Note anything that differentiates your project from similar projects.  -->
+
+   ### Business Need
+   <!-- Describe the business need that your project addresses/solves and the target audience.-->
+   
+   ### Key Features
+   <!-- Note the key features/functionality of your project.  -->
