@@ -21,9 +21,9 @@
   - [Development Notes](#development-notes) 
   - [References](#references) 
   - [Future Considerations](#future-considerations)
-  - [How To Contribute](#how-to-contribute)   
   - [Author](#author)
-  - [Contributions & Acknowledgements](#contributions-&-acknowledgements)   
+  - [Contributions & Acknowledgements](#contributions-&-acknowledgements) 
+  - [How To Contribute](#how-to-contribute)     
   - [Support](#support)
   - [License](#license)
 
@@ -126,6 +126,13 @@ The following sources were referenced to develop the application:
 - reference 2
 - reference 3
 
+## Future Considerations
+<!-- list any features/functionality that are under consideration for a future release(s) -->
+The following are considerations for future development:
+- consideration 1
+- consideration 2
+- consideration 3
+
 ## Author
 
 #### Primary Author/Developer: 
@@ -138,7 +145,7 @@ Nicole Daruwalla
 - [Portfolio](https://github.com/NDaruwalla/daruwalla-react-portfolio)
 - [LinkedIn](https://www.linkedin.com/in/nicoledaruwalla/)
 
-## Contributors & Acknowledgements
+## Contributions & Acknowledgements
 The following individuals contributed much appreciated support, assistance, and expertise to the project:
 - contributor 1
 - contributor 2
