@@ -15,9 +15,7 @@
   - [Overview](#overview)
   - [Links](#links)
   - [Visual Media](#visual-media)  
-  - [Built With](#built-with)
-  - [Requirements](#requirements)   
-  - [Installation](#installation)    
+  - [Built With](#built-with)   
   - [How To Use](#how-to-use)
   - [Tests](#tests)
   - [Author](#author)
@@ -32,7 +30,7 @@
 
 ### Description
   <!-- Describe what your project does. Note anything that differentiates your project from similar projects.  -->
-  Write application description here.
+  Write the application description here.
 
 ### Business Need
   <!-- Describe the business need that your project addresses/solves and the target audience.-->
@@ -90,3 +88,23 @@ The tools and technologies used to build this application include:
   * tool 4
   * tool 5
   * tool 6
+
+## How To Use
+
+### Requirements
+This application requires the following:
+  * requirement 1
+  * requirement 2
+  * requirement 3
+
+### Installation
+To install this application, follow these steps:
+  1. do this
+  2. then this
+  3. and this
+
+### Instructions
+To use this application, follow these steps:
+  1. do this
+  2. then this
+  3. and this
