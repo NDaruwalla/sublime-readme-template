@@ -1,7 +1,7 @@
 <h1 align="center">Project Title</h1>
 
 <p align="center">
-   <img src="[YOUR_RAW_IMAGE_URL]" alt="[YOUR_ALT]"/>
+   <img src="image url here" alt="Alt text here"/>
 </p>
 
 <p align="center">![Icon-or-Logo-Name](Assets/img/name.png)</p>
@@ -52,3 +52,24 @@
 
 ### Issues
 [Bugs](https://github.com/ndaruwalla/projectname/issues "Issues Page")
+
+## Visual Media
+
+### Video Demonstration
+<!-- the template below shows an image from the video -->
+Video Demonstration title and/or brief description
+
+[![Watch the video](https://img.youtube.com/youtube-abcxyz.jpg)](https://youtu.be/xyzabc)
+
+### Animated Gif
+<!-- create animated gif here: https://giphy.com/create/gifmaker or https://www.screentogif.com/ -->
+Animated Gif title and/or brief description
+
+![Alt text here](demo/demo.gif)
+
+### Screen Captures
+
+Screen capture #1 title and/or brief description
+
+<img src="https://your-image-url.type" alt="Alt text here" width="100">
+
