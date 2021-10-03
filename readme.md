@@ -146,38 +146,38 @@ To use this application, follow these steps:
   2. then this
   3. and this
 
-<!-- Step 12: Describe any tests that were completed on the application. Or, delete this section. -->
-<!-- How To Use Section -->
+<!-- Step 12: Describe any tests that were completed on the application and results. Or, delete this section. -->
+<!-- Tests Section -->
 ## Tests
 The following tests were performed:
   * test 1
   * test 2
   * test 3
 
+<!-- Step 13: Write any pertinent development notes such as development steps and/or process, challenges/obstacles and solutions, key code snippets etc. (Note: If including code, use back ticks ```code here``` around the code to display code format.) Or, delete this section. -->
+<!-- Development Notes Section -->
 ## Development Notes
-<!-- this section can be used to describe development steps and/or process, challenges/obstacles and solutions, key code snippets etc. -->
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
 
+<!-- Step 14: List any sites, videos, articles, examples, etc. that were referenced in the development of the application. Or, delete this section. -->
+<!-- References Section -->
 ## References
-<!-- list sites, videos, articles, examples, etc. that were referenced in the development of the app -->
+
 The following sources were referenced to develop the application:
 - reference 1
 - reference 2
 - reference 3
 
+<!-- Step 15: List any features, functionality, ideas that are under consideration for a future release(s). Or, delete this section.-->
+<!-- Future Considerations Section -->
 ## Future Considerations
-<!-- list any features/functionality that are under consideration for a future release(s) -->
+
 The following are considerations for future development:
 - consideration 1
 - consideration 2
 - consideration 3
 
+<!-- Step 16: Write the name of the application's primary author/developer and the individual's contact information if appropriate.-->
+<!-- Author Section -->
 ## Author
 
 #### Primary Author/Developer: 
@@ -190,6 +190,8 @@ Nicole Daruwalla
 - [Portfolio](https://github.com/NDaruwalla/daruwalla-react-portfolio)
 - [LinkedIn](https://www.linkedin.com/in/nicoledaruwalla/)
 
+<!-- Step 17: List any contributors and note acknowledgements for individuals/companies/organizations that provided support. Or, delete this section.-->
+<!-- Contributions & Acknowledgements Section -->
 ## Contributions & Acknowledgements
 The following individuals contributed much appreciated support, assistance, and expertise to the project:
 - contributor 1
@@ -199,6 +201,8 @@ Additional acknowledgements include:
 - acknowledgement 1
 - acknowledgement 2
 
+<!-- Step 18: Describe how users or developers can contribute to the project. Provide contact information for application author/developer as appropriate. Or, delete this section.-->
+<!-- How To Contribute Section -->
 ## How-To-Contribute
 Ideas, issues, and requests for enhancements and/or changes are all welcome! Submit requests via **GitHub** or via **email**. 
 
