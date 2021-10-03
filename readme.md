@@ -104,12 +104,11 @@ Video Demonstration title and/or brief description
 ### Animated Gif
 <!-- create animated gif here: https://giphy.com/create/gifmaker or https://www.screentogif.com/ -->
 Animated Gif title and/or brief description
-
 ![Alt text here](demo/demo.gif)
 
 ### Screen Captures
 
-Screen capture #1 title and/or brief description
+Screen capture #1 title and/or brief description <br>
 <img src="https://your-image-url.type" alt="Alt text here" width="100">
 
 <!-- Step 10: List the tools and technologies used to create the application and provide links and descriptions as appropriate.Remove any subsections that are not needed. -->
@@ -201,7 +200,7 @@ Additional acknowledgements include:
 - acknowledgement 1
 - acknowledgement 2
 
-<!-- Step 18: Describe how users or developers can contribute to the project. Provide contact information for application author/developer as appropriate. Or, delete this section.-->
+<!-- Step 18: Describe how users or developers can contribute to the project. Provide contact information (e.g., GitHub Issues, Email) for application author/developer as appropriate. Or, delete this section.-->
 <!-- How To Contribute Section -->
 ## How-To-Contribute
 Ideas, issues, and requests for enhancements and/or changes are all welcome! Submit requests via **GitHub** or via **email**. 
@@ -212,15 +211,21 @@ Fork the repository, create a new branch, make your changes, add and commit your
 #### Email
 Contact the developer via [Email](mailto:nicole.daruwalla@gmail.com).
 
+<!-- Step 19: ENTER HERE. Or, delete this section.-->
+<!-- Support Section -->
 ## Support
 For *questions* or *help* with this application, contact the developer via [Email](mailto:nicole.daruwalla@gmail.com).
 
+<!-- Step 19: ENTER HERE. Or, delete this section.-->
+<!-- License Section -->
 ## License
 <!-- https://shields.io/ -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
   
 Click the badge for license description.
 
+<!-- Step 19: ENTER HERE. Or, delete this section.-->
+<!-- Final Words Section -->
 ## Final Words
 <!-- insert a related quote-->
 As person-name said: 
