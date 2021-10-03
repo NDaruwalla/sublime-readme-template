@@ -7,7 +7,7 @@
 
 <!-- Step 2: Enter the title of your application.-->
 <!-- Title Section -->
-<h1 align="center">Sublime Readme Template</h1>
+<h1 align="center">Sublime README Template</h1>
 
 <!-- Step 3: Enter your application's tagline, slogan, or short description. Or, delete this section -->
 <!-- Tagline/Slogan/Short Description Section -->
@@ -19,7 +19,8 @@
 <!-- Resource: See links at the bottom of the page to learn how to create the badges.-->
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/ndaruwalla/sublime-readme-template" />
-    <img src="https://img.shields.io/github/languages/top/ndaruwalla/sublime-readme-template"  />
+     <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
+    <!-- <img src="https://img.shields.io/github/languages/top/ndaruwalla/sublime-readme-template"  /> -->
     <img src="https://img.shields.io/github/issues/ndaruwalla/sublime-readme-template" />
     <img src="https://img.shields.io/github/last-commit/ndaruwalla/sublime-readme-template" /><br>
     <img src="https://img.shields.io/github/downloads/ndaruwalla/sublime-readme-template/total.svg" />
@@ -30,12 +31,13 @@
     </a>
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
-</p>
-<p align="center" <span style="color:blue">Like this README template? Give it a ✭!</span></p>
-<!-- https://shields.io/ -->
+<!-- Step 5: Replace "Sublime README Template" with the name of your application. Or, delete this section -->
+<!-- Question Section -->
+<!-- Resource: See links at the bottom of the page to learn how to create badges.-->
+<p align="center" <span style="color:blue">Do you like the Sublime README Template? Give it a ✭!</span></p>
 
+<!-- Step 6: Remove or add items from the Table of Contents as needed for your application. Or, delete this section if writing a less comprehensive README file. -->
+<!-- Table of Contents Section -->
 ## Table of Contents
   - [Overview](#overview)
   - [Links](#links)
@@ -52,6 +54,8 @@
   - [Support](#support)
   - [License](#license)
 
+<!-- Step 7: Complete the Overview by writing the Description, Business Need, and Key Features. Remove any subsections that are not needed. -->
+<!-- Overview Section -->
 ## Overview
 
 ### Description
@@ -210,17 +214,25 @@ As person-name said:
 >Write quote here.
 
 
-<!-- Notes for readme file
+<!-- 
+ References:
+
  https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/homework-writing-a-readme
  https://www.makeareadme.com/
- https://shields.io/
  https://dev.to/rohit19060/how-to-write-stunning-github-readme-md-template-provided-5b09
  https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9
  https://github.com/all-contributors/all-contributors
+
+ Resources:
+
+ How to write Markdown:
  https://www.markdownguide.org/basic-syntax/
  https://guides.github.com/features/mastering-markdown/
  https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#objects
+
+ How to create badges:
+ https://logoipsum.com/
  https://dev.to/envoy_/150-badges-for-github-pnk
  https://badgen.net/
- https://logoipsum.com/
+ https://shields.io/
   -->
