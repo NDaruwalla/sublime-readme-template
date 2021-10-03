@@ -1,17 +1,37 @@
+<p align="center">
+   <img width="300" src="logo.svg" alt="Application Logo"/>
+</p>
+
 <h1 align="center">Sublime Readme Template</h1>
 <!-- change text above in h1 to the name of the project/application -->
 
 <p align="center">A customizable template created to help developers write a comprehensive readme file.</p>
 <!-- change text above in <p> to the the tagline or short description of the project/application -->
+<br>
 
-<p align="center">
-   <img src="image url here" alt="Application Logo"/>
-</p>
 
 <!-- If no logo, then insert an icon that represents the project/application
 <p align="center">![Icon-or-Logo-Name](Assets/img/name.png)</p> -->
 <!-- image credit: this image is from icons8 or other-->
 
+<!-- See links at the bottom of the page to create badges-->
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/ndaruwalla/sublime-readme-template" />
+    <img src="https://img.shields.io/github/languages/top/ndaruwalla/sublime-readme-template"  />
+    <img src="https://img.shields.io/github/issues/ndaruwalla/sublime-readme-template" />
+    <img src="https://img.shields.io/github/last-commit/ndaruwalla/sublime-readme-template" /><br>
+    <img src="https://img.shields.io/github/downloads/ndaruwalla/sublime-readme-template/total.svg" />
+    <img src="https://img.shields.io/github/forks/ndaruwalla/sublime-readme-template.svg" />
+    <img src="https://img.shields.io/github/stars/ndaruwalla/sublime-readme-template.svg" />
+    <a href="https://twitter.com/NicoleDaruwalla">
+        <img alt="Twitter: NicoleDaruwalla" src="https://img.shields.io/twitter/follow/NicoleDaruwalla.svg?style=social" target="_blank" />
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
+</p>
+<p align="center" <span style="color:blue">Like this README template? Give it a ✭!</span></p>
 <!-- https://shields.io/ -->
 
 ## Table of Contents
@@ -165,7 +185,7 @@ Additional acknowledgements include:
 - acknowledgement 2
 
 ## How-To-Contribute
-Ideas, issues, and requests for enhancements and/or changes are all welcome! Submit requests via GitHub or via email. 
+Ideas, issues, and requests for enhancements and/or changes are all welcome! Submit requests via **GitHub** or via **email**. 
 
 #### GitHub
 Fork the repository, create a new branch, make your changes, add and commit your changes, and push your changes to the original branch. Or, log an issue here: https://github.com/NDaruwalla/sublime-readme-template/issues. 
@@ -174,7 +194,7 @@ Fork the repository, create a new branch, make your changes, add and commit your
 Contact the developer via [Email](mailto:nicole.daruwalla@gmail.com).
 
 ## Support
-For questions or help with this application, contact the developer via [Email](mailto:nicole.daruwalla@gmail.com).
+For *questions* or *help* with this application, contact the developer via [Email](mailto:nicole.daruwalla@gmail.com).
 
 ## License
 <!-- https://shields.io/ -->
@@ -183,8 +203,22 @@ For questions or help with this application, contact the developer via [Email](m
 Click the badge for license description.
 
 ## Final Words
+<!-- insert a related quote-->
 As person-name said: 
 >Write quote here.
 
 
-<p align="center" <span style="color:blue" >Like this project? Give it a ✭!</span></p>
+<!-- Notes for readme file
+ https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/homework-writing-a-readme
+ https://www.makeareadme.com/
+ https://shields.io/
+ https://dev.to/rohit19060/how-to-write-stunning-github-readme-md-template-provided-5b09
+ https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9
+ https://github.com/all-contributors/all-contributors
+ https://www.markdownguide.org/basic-syntax/
+ https://guides.github.com/features/mastering-markdown/
+ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#objects
+ https://dev.to/envoy_/150-badges-for-github-pnk
+ https://badgen.net/
+ https://logoipsum.com/
+  -->
