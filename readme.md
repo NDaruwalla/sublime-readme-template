@@ -1,4 +1,4 @@
-<!-- Step 1: Insert your application's logo or an icon/image that represents your project. Or, delete this section -->
+<!-- Step 1: Insert your application's logo or an icon/image that represents your project. Or, delete this section. -->
 <!-- Logo Section -->
 <p align="center"> 
    <img width="300" src="logo.svg" alt="Application Logo"/>
@@ -9,12 +9,12 @@
 <!-- Title Section -->
 <h1 align="center">Sublime README Template</h1>
 
-<!-- Step 3: Enter your application's tagline, slogan, or short description. Or, delete this section -->
+<!-- Step 3: Enter your application's tagline, slogan, or short description. Or, delete this section. -->
 <!-- Tagline/Slogan/Short Description Section -->
 <p align="center">A customizable template created to help developers write a comprehensive readme file.</p>
 <br>
 
-<!-- Step 4: Display the badges relevant to your application. Or, delete this section -->
+<!-- Step 4: Display the badges relevant to your application. Or, delete this section. -->
 <!-- Badges Section -->
 <!-- Resource: See links at the bottom of the page to learn how to create the badges.-->
 <p align="center">
@@ -31,7 +31,7 @@
     </a>
 </p>
 
-<!-- Step 5: Replace "Sublime README Template" with the name of your application. Or, delete this section -->
+<!-- Step 5: Replace "Sublime README Template" with the name of your application. Or, delete this section. -->
 <!-- Question Section -->
 <!-- Resource: See links at the bottom of the page to learn how to create badges.-->
 <p align="center" <span style="color:blue">Do you like the Sublime README Template? Give it a ✭!</span></p>
@@ -75,6 +75,8 @@ The key features of this application include:
   * feature 4
   * feature 5
 
+<!-- Step 8: Provide applicable links to your application (e.g., GitHub repository, live application, and issues log). Remove any subsections that are not needed. -->
+<!-- Links Section -->
 ## Links
 
 ### Github Repository 
@@ -83,12 +85,14 @@ The key features of this application include:
 ### Live 
 [Heroku](https://git.heroku.com/projectname.git)
 
-### API
-[API](<API Link> "API")
+<!-- ### API
+[API](<API Link> "API") -->
 
 ### Issues
-[Bugs](https://github.com/ndaruwalla/projectname/issues "Issues Page")
+[Issues/Bugs](https://github.com/ndaruwalla/projectname/issues "Issues Page")
 
+<!-- Step 9: Insert applicable visuals such as video demonstrations, animated gifs and screen captures. Remove any subsections that are not needed. -->
+<!-- Visual Media Section -->
 ## Visual Media
 
 ### Video Demonstration
@@ -106,11 +110,12 @@ Animated Gif title and/or brief description
 ### Screen Captures
 
 Screen capture #1 title and/or brief description
-
 <img src="https://your-image-url.type" alt="Alt text here" width="100">
 
+<!-- Step 10: List the tools and technologies used to create the application and provide links and descriptions as appropriate.Remove any subsections that are not needed. -->
+<!-- Build With Section -->
 ## Built With 
-<!-- list the tools and technologies used to create the application and provide descriptions/links as appropriate -->
+<!-- 
 The tools and technologies used to build this application include:
   * tool 1
   * tool 2
@@ -119,6 +124,8 @@ The tools and technologies used to build this application include:
   * tool 5
   * tool 6
 
+<!-- Step 11: Describe any requirements needed to use the application, step-by-step installation instructions, instructions for how to use the application. Remove any subsections that are not needed. -->
+<!-- How To Use Section -->
 ## How To Use
 
 ### Requirements
@@ -139,6 +146,8 @@ To use this application, follow these steps:
   2. then this
   3. and this
 
+<!-- Step 12: Describe any tests that were completed on the application. Or, delete this section. -->
+<!-- How To Use Section -->
 ## Tests
 The following tests were performed:
   * test 1
@@ -235,4 +244,7 @@ As person-name said:
  https://dev.to/envoy_/150-badges-for-github-pnk
  https://badgen.net/
  https://shields.io/
+
+ Choose an open source license:
+ https://choosealicense.com/
   -->
