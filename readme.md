@@ -1,20 +1,22 @@
-<p align="center">
+<!-- Step 1: Insert your application's logo or an icon/image that represents your project. Or, delete this section -->
+<!-- Logo Section -->
+<p align="center"> 
    <img width="300" src="logo.svg" alt="Application Logo"/>
 </p>
+<!-- <p align="center">![Icon-or-Logo-Name](Assets/img/name.png)</p>  -->
 
+<!-- Step 2: Enter the title of your application.-->
+<!-- Title Section -->
 <h1 align="center">Sublime Readme Template</h1>
-<!-- change text above in h1 to the name of the project/application -->
 
+<!-- Step 3: Enter your application's tagline, slogan, or short description. Or, delete this section -->
+<!-- Tagline/Slogan/Short Description Section -->
 <p align="center">A customizable template created to help developers write a comprehensive readme file.</p>
-<!-- change text above in <p> to the the tagline or short description of the project/application -->
 <br>
 
-
-<!-- If no logo, then insert an icon that represents the project/application
-<p align="center">![Icon-or-Logo-Name](Assets/img/name.png)</p> -->
-<!-- image credit: this image is from icons8 or other-->
-
-<!-- See links at the bottom of the page to create badges-->
+<!-- Step 4: Display the badges relevant to your application. Or, delete this section -->
+<!-- Badges Section -->
+<!-- Resource: See links at the bottom of the page to learn how to create the badges.-->
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/ndaruwalla/sublime-readme-template" />
     <img src="https://img.shields.io/github/languages/top/ndaruwalla/sublime-readme-template"  />
